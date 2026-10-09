@@ -1,0 +1,8 @@
+<configure xmlns="http://namespaces.zope.org/zope">
+
+  <!--
+    Intentionally empty. Plone loads this file at startup (z3c.autoinclude
+    entry point), which imports the package and registers the ARGON2 scheme.
+  -->
+
+</configure>
